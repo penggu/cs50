@@ -1,0 +1,10 @@
+h1 {
+    color: #dd0000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 1.2em;
+    margin: 0 0 10px 0;
+    padding: 0;
+    text-align: center;
+}
