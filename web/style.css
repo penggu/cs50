@@ -9,6 +9,6 @@ h1 {
     text-align: center;
 }
 
-#foo {
-    color: blue;
+.bar {
+    color: green;
 }
